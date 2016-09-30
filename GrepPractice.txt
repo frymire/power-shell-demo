@@ -1,0 +1,116 @@
+2  1060  HCorefEngine   INFO  Finished batch 1 (10 iterations)  CRF Score = 486.0  F1 = 0.06758686339838171
+4  1120  HCorefEngine   INFO  Finished batch 2 (10 iterations)  CRF Score = 776.0  F1 = 0.11074918566775244
+6  1175  HCorefEngine   INFO  Finished batch 3 (10 iterations)  CRF Score = 1000.0  F1 = 0.19795827785175318
+8  1219  HCorefEngine   INFO  Finished batch 4 (10 iterations)  CRF Score = 1178.0  F1 = 0.20987654320987653
+10  1264  HCorefEngine   INFO  Finished batch 5 (10 iterations)  CRF Score = 1284.0  F1 = 0.2224168126094571
+12  1306  HCorefEngine   INFO  Finished batch 6 (10 iterations)  CRF Score = 1400.0  F1 = 0.28547297297297297
+14  1340  HCorefEngine   INFO  Finished batch 7 (10 iterations)  CRF Score = 1486.0  F1 = 0.33470057424118127
+16  1378  HCorefEngine   INFO  Finished batch 8 (10 iterations)  CRF Score = 1614.0  F1 = 0.477119279819955
+18  1422  HCorefEngine   INFO  Finished batch 9 (10 iterations)  CRF Score = 1682.0  F1 = 0.5247093023255814
+20  1457  HCorefEngine   INFO  Finished batch 10 (10 iterations)  CRF Score = 1780.0  F1 = 0.547925608011445
+22  1484  HCorefEngine   INFO  Finished batch 11 (10 iterations)  CRF Score = 1822.0  F1 = 0.5411426518145885
+24  1512  HCorefEngine   INFO  Finished batch 12 (10 iterations)  CRF Score = 1894.0  F1 = 0.6403215003348962
+26  1545  HCorefEngine   INFO  Finished batch 13 (10 iterations)  CRF Score = 1928.0  F1 = 0.689053923151437
+28  1569  HCorefEngine   INFO  Finished batch 14 (10 iterations)  CRF Score = 1966.0  F1 = 0.7503847337642352
+30  1597  HCorefEngine   INFO  Finished batch 15 (10 iterations)  CRF Score = 1992.0  F1 = 0.8121708601521357
+32  1620  HCorefEngine   INFO  Finished batch 16 (10 iterations)  CRF Score = 2014.0  F1 = 0.8183934807916182
+34  1644  HCorefEngine   INFO  Finished batch 17 (10 iterations)  CRF Score = 2040.0  F1 = 0.8296339002594407
+36  1662  HCorefEngine   INFO  Finished batch 18 (10 iterations)  CRF Score = 2040.0  F1 = 0.8252314814814815
+38  1681  HCorefEngine   INFO  Finished batch 19 (10 iterations)  CRF Score = 2048.0  F1 = 0.8296339002594407
+40  1704  HCorefEngine   INFO  Finished batch 20 (10 iterations)  CRF Score = 2054.0  F1 = 0.8544018058690744
+42  1728  HCorefEngine   INFO  Finished batch 21 (10 iterations)  CRF Score = 2066.0  F1 = 0.856981981981982
+44  1744  HCorefEngine   INFO  Finished batch 22 (10 iterations)  CRF Score = 2070.0  F1 = 0.8646532438478747
+46  1762  HCorefEngine   INFO  Finished batch 23 (10 iterations)  CRF Score = 2078.0  F1 = 0.8949373979314099
+48  1775  HCorefEngine   INFO  Finished batch 24 (10 iterations)  CRF Score = 2080.0  F1 = 0.9109442060085837
+50  1795  HCorefEngine   INFO  Finished batch 25 (10 iterations)  CRF Score = 2084.0  F1 = 0.9094816008595219
+52  1810  HCorefEngine   INFO  Finished batch 26 (10 iterations)  CRF Score = 2084.0  F1 = 0.9094816008595219
+54  1825  HCorefEngine   INFO  Finished batch 27 (10 iterations)  CRF Score = 2080.0  F1 = 0.959774532410966
+56  1838  HCorefEngine   INFO  Finished batch 28 (10 iterations)  CRF Score = 2080.0  F1 = 0.959774532410966
+58  1852  HCorefEngine   INFO  Finished batch 29 (10 iterations)  CRF Score = 2080.0  F1 = 0.959774532410966
+60  1868  HCorefEngine   INFO  Finished batch 30 (10 iterations)  CRF Score = 2080.0  F1 = 0.959774532410966
+62  1881  HCorefEngine   INFO  Finished batch 31 (10 iterations)  CRF Score = 2082.0  F1 = 0.9724120475828903
+64  1893  HCorefEngine   INFO  Finished batch 32 (10 iterations)  CRF Score = 2082.0  F1 = 0.9724120475828903
+66  1905  HCorefEngine   INFO  Finished batch 33 (10 iterations)  CRF Score = 2078.0  F1 = 0.9887920298879203
+68  1916  HCorefEngine   INFO  Finished batch 34 (10 iterations)  CRF Score = 2078.0  F1 = 0.9839839839839839
+70  1927  HCorefEngine   INFO  Finished batch 35 (10 iterations)  CRF Score = 2082.0  F1 = 0.9360587002096437
+72  1940  HCorefEngine   INFO  Finished batch 36 (10 iterations)  CRF Score = 2082.0  F1 = 0.9360587002096437
+74  1950  HCorefEngine   INFO  Finished batch 37 (10 iterations)  CRF Score = 2082.0  F1 = 0.9360587002096437
+76  1961  HCorefEngine   INFO  Finished batch 38 (10 iterations)  CRF Score = 2082.0  F1 = 0.9724120475828903
+78  1973  HCorefEngine   INFO  Finished batch 39 (10 iterations)  CRF Score = 2086.0  F1 = 0.9233625033147707
+80  1986  HCorefEngine   INFO  Finished batch 40 (10 iterations)  CRF Score = 2086.0  F1 = 0.9233625033147707
+82  2000  HCorefEngine   INFO  Finished batch 41 (10 iterations)  CRF Score = 2086.0  F1 = 0.9233625033147707
+84  2017  HCorefEngine   INFO  Finished batch 42 (10 iterations)  CRF Score = 2086.0  F1 = 0.9233625033147707
+86  2029  HCorefEngine   INFO  Finished batch 43 (10 iterations)  CRF Score = 2086.0  F1 = 0.9233625033147707
+88  2040  HCorefEngine   INFO  Finished batch 44 (10 iterations)  CRF Score = 2082.0  F1 = 0.9724120475828903
+90  2052  HCorefEngine   INFO  Finished batch 45 (10 iterations)  CRF Score = 2082.0  F1 = 0.9724120475828903
+92  2074  HCorefEngine   INFO  Finished batch 46 (10 iterations)  CRF Score = 2082.0  F1 = 0.9724120475828903
+94  2083  HCorefEngine   INFO  Finished batch 47 (10 iterations)  CRF Score = 2078.0  F1 = 0.9887920298879203
+96  2092  HCorefEngine   INFO  Finished batch 48 (10 iterations)  CRF Score = 2078.0  F1 = 0.9887920298879203
+98  2104  HCorefEngine   INFO  Finished batch 49 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+100  2116  HCorefEngine   INFO  Finished batch 50 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+102  2127  HCorefEngine   INFO  Finished batch 51 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+104  2138  HCorefEngine   INFO  Finished batch 52 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+106  2147  HCorefEngine   INFO  Finished batch 53 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+108  2156  HCorefEngine   INFO  Finished batch 54 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+110  2166  HCorefEngine   INFO  Finished batch 55 (10 iterations)  CRF Score = 2082.0  F1 = 0.941329856584094
+112  2175  HCorefEngine   INFO  Finished batch 56 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+114  2185  HCorefEngine   INFO  Finished batch 57 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+116  2193  HCorefEngine   INFO  Finished batch 58 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+118  2203  HCorefEngine   INFO  Finished batch 59 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+120  2212  HCorefEngine   INFO  Finished batch 60 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+122  2220  HCorefEngine   INFO  Finished batch 61 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+124  2229  HCorefEngine   INFO  Finished batch 62 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+126  2240  HCorefEngine   INFO  Finished batch 63 (10 iterations)  CRF Score = 2084.0  F1 = 0.9536082474226805
+128  2250  HCorefEngine   INFO  Finished batch 64 (10 iterations)  CRF Score = 2086.0  F1 = 0.9155982905982907
+130  2262  HCorefEngine   INFO  Finished batch 65 (10 iterations)  CRF Score = 2086.0  F1 = 0.9155982905982907
+132  2274  HCorefEngine   INFO  Finished batch 66 (10 iterations)  CRF Score = 2086.0  F1 = 0.9155982905982907
+134  2291  HCorefEngine   INFO  Finished batch 67 (10 iterations)  CRF Score = 2086.0  F1 = 0.9155982905982907
+136  2303  HCorefEngine   INFO  Finished batch 68 (10 iterations)  CRF Score = 2086.0  F1 = 0.9155982905982907
+138  2315  HCorefEngine   INFO  Finished batch 69 (10 iterations)  CRF Score = 2086.0  F1 = 0.9155982905982907
+140  2325  HCorefEngine   INFO  Finished batch 70 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+142  2337  HCorefEngine   INFO  Finished batch 71 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+144  2347  HCorefEngine   INFO  Finished batch 72 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+146  2362  HCorefEngine   INFO  Finished batch 73 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+148  2376  HCorefEngine   INFO  Finished batch 74 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+150  2388  HCorefEngine   INFO  Finished batch 75 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+152  2400  HCorefEngine   INFO  Finished batch 76 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+154  2415  HCorefEngine   INFO  Finished batch 77 (10 iterations)  CRF Score = 2088.0  F1 = 0.9338235294117647
+156  2425  HCorefEngine   INFO  Finished batch 78 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+158  2434  HCorefEngine   INFO  Finished batch 79 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+160  2445  HCorefEngine   INFO  Finished batch 80 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+162  2455  HCorefEngine   INFO  Finished batch 81 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+164  2468  HCorefEngine   INFO  Finished batch 82 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+166  2479  HCorefEngine   INFO  Finished batch 83 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+168  2488  HCorefEngine   INFO  Finished batch 84 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+170  2502  HCorefEngine   INFO  Finished batch 85 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+172  2511  HCorefEngine   INFO  Finished batch 86 (10 iterations)  CRF Score = 2084.0  F1 = 0.9500905094388414
+174  2523  HCorefEngine   INFO  Finished batch 87 (10 iterations)  CRF Score = 2084.0  F1 = 0.9500905094388414
+176  2533  HCorefEngine   INFO  Finished batch 88 (10 iterations)  CRF Score = 2094.0  F1 = 0.940501043841336
+178  2546  HCorefEngine   INFO  Finished batch 89 (10 iterations)  CRF Score = 2090.0  F1 = 0.9880358923230309
+180  2556  HCorefEngine   INFO  Finished batch 90 (10 iterations)  CRF Score = 2090.0  F1 = 0.9880358923230309
+182  2567  HCorefEngine   INFO  Finished batch 91 (10 iterations)  CRF Score = 2094.0  F1 = 0.940501043841336
+184  2578  HCorefEngine   INFO  Finished batch 92 (10 iterations)  CRF Score = 2096.0  F1 = 0.9536082474226805
+186  2590  HCorefEngine   INFO  Finished batch 93 (10 iterations)  CRF Score = 2090.0  F1 = 0.9536082474226805
+188  2598  HCorefEngine   INFO  Finished batch 94 (10 iterations)  CRF Score = 2084.0  F1 = 0.949818934299017
+190  2608  HCorefEngine   INFO  Finished batch 95 (10 iterations)  CRF Score = 2090.0  F1 = 0.9465490399584846
+192  2616  HCorefEngine   INFO  Finished batch 96 (10 iterations)  CRF Score = 2090.0  F1 = 0.9465490399584846
+194  2625  HCorefEngine   INFO  Finished batch 97 (10 iterations)  CRF Score = 2090.0  F1 = 0.9465490399584846
+196  2633  HCorefEngine   INFO  Finished batch 98 (10 iterations)  CRF Score = 2090.0  F1 = 0.9465490399584846
+198  2641  HCorefEngine   INFO  Finished batch 99 (10 iterations)  CRF Score = 2090.0  F1 = 0.9465490399584846
+200  2650  HCorefEngine   INFO  Finished batch 100 (10 iterations)  CRF Score = 2090.0  F1 = 0.9465490399584846
+202  4146  package$   INFO  Grouping 204875 mentions into canopies.
+204  4293  package$   INFO  Found 38681 canopies.
+206  7224  HCorefEngine   INFO  Finished batch 1 (2 iterations)  CRF Score = 159403.0  F1 = 0.02469599649457862
+208  9513  HCorefEngine   INFO  Finished batch 2 (2 iterations)  CRF Score = 260089.0  F1 = 0.04139484654379913
+210  12228  HCorefEngine   INFO  Finished batch 3 (2 iterations)  CRF Score = 336110.0  F1 = 0.05717255668887551
+212  12993  package$   INFO  Grouping mentions into canopies.
+214  13035  HCorefSupervisor   INFO  # Creating workers for 646 canopies.
+216  15675  HCorefSupervisor   INFO  500 of 646 scores received (0 failures).  Total Score = 101078.0.  (Received score of 198.0 from HCorefWorker for QMtlhkuo.)
+218  16516  HCorefSupervisor   INFO  646 of 646 scores received (0 failures).  Total Score = 130758.0.  (Received score of 158.0 from HCorefWorker for OPxpqdwz.)
+220  16568  package$   INFO  Running sum = 130758.0.  Merged hypothesis running score = 130758.0.
+222  16650  package$   INFO  F1 = 0.4013801347533145
+224  17195  package$   INFO  Grouping 204875 mentions into canopies.
+226  17286  package$   INFO  Found 38681 canopies.
+228  19658  HCorefEngine   INFO  Finished batch 1 (2 iterations)  CRF Score = 159298.0  F1 = 0.024732308766796208
+230  22313  HCorefEngine   INFO  Finished batch 2 (2 iterations)  CRF Score = 261811.0  F1 = 0.042001602062045194
+232  24472  HCorefEngine   INFO  Finished batch 3 (2 iterations)  CRF Score = 338011.0  F1 = 0.057291320132827055
