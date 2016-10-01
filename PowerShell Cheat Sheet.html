@@ -315,6 +315,8 @@ img {
 <pre><code>&gt; alias | findstr “Process”
 </code></pre>
 
+<h3>Copy Text</h3>
+<p>Just right-click. Don't use <code>ctrl-c</code>.</p>
 <h3>Tab Expansion</h3>
 <p>Type tab or shift-tab to cycle through options.</p>
 <pre><code>&gt; cd ..\Folder
@@ -343,9 +345,10 @@ Hello
 </code></pre>
 
 <h3>Read from a File</h3>
-<pre><code>&gt; gc output.txt Get-Content output.txt
+<pre><code>&gt; gc output.txt 
 </code></pre>
 
+<p>for Get-Content.</p>
 <h3>Filter (grep functionality)</h3>
 <p>Use findstr (tutorial
 <a href="http://www.mkyong.com/linux/grep-for-windows-findstr-example/">here</a>).</p>
@@ -528,6 +531,20 @@ Hi world.
 
 <p>or</p>
 <pre><code>&gt; kill -processname notepad
+</code></pre>
+
+<h3>Resolve a File Path</h3>
+<p>Resolve-Path or rvpa</p>
+<pre><code>&gt; rvpa c:\prog*
+</code></pre>
+
+<p>Use -relative to show how to get there</p>
+<pre><code>&gt; rvpa c:\prog* -relative
+</code></pre>
+
+<h3>Edit a Text File</h3>
+<p>It's not a PowerShell command, but it gets the job done...</p>
+<pre><code>&gt; notepad hi.txt
 </code></pre>
 
 

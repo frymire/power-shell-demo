@@ -25,6 +25,10 @@ List commands with a specific noun or verb...
 
     > alias | findstr “Process”
 
+### Copy Text
+
+Just right-click. Don't use `ctrl-c`.
+
 ### Tab Expansion
 
 Type tab or shift-tab to cycle through options.
@@ -57,7 +61,9 @@ Search for a string on a lines piped from other commands:
 
 ### Read from a File
 
-    > gc output.txt Get-Content output.txt
+    > gc output.txt 
+     
+for Get-Content.
 
 ### Filter (grep functionality)
 
@@ -77,6 +83,21 @@ Look in a file:
 	> findstr result “RippleEffect Info Log.txt”
 
 Or use ?, the alias for Where-Object… dir | ? {$_ -like “*.txt”}
+
+### Format Numbers
+
+	>"{0:N0}" -f 123456.789
+	123,457
+	>"{0:N1}" -f 123456.789
+	123,457.8
+	>"{0:N4}" -f 123456.789
+	123,456.7890
+
+Format percentages...
+
+	> "{0:P1}" -f .8936
+	89.4%
+
 
 ### Pretty Print Tables
 
@@ -259,3 +280,19 @@ Stop-Process or kill
 or
 
 	> kill -processname notepad
+
+### Resolve a File Path
+
+Resolve-Path or rvpa
+
+	> rvpa c:\prog*
+
+Use -relative to show how to get there
+
+	> rvpa c:\prog* -relative
+
+### Edit a Text File
+
+It's not a PowerShell command, but it gets the job done...
+
+	> notepad hi.txt
