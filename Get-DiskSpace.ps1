@@ -1,0 +1,1 @@
+Get-WMIObject Win32_LogicalDisk | ForEach-Object {$_.DeviceID + " " + ("{0:N2}" -f ($_.freespace / 1GB)) + " GB"}
