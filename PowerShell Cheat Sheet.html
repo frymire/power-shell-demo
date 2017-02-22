@@ -365,6 +365,20 @@ Hello
 </code></pre>
 
 <p>Or use ?, the alias for Where-Object… dir | ? {$_ -like “*.txt”}</p>
+<h3>Format Numbers</h3>
+<pre><code>&gt;&quot;{0:N0}&quot; -f 123456.789
+123,457
+&gt;&quot;{0:N1}&quot; -f 123456.789
+123,457.8
+&gt;&quot;{0:N4}&quot; -f 123456.789
+123,456.7890
+</code></pre>
+
+<p>Format percentages...</p>
+<pre><code>&gt; &quot;{0:P1}&quot; -f .8936
+89.4%
+</code></pre>
+
 <h3>Pretty Print Tables</h3>
 <p>Pipe to Format-List or fl</p>
 <pre><code>&gt; dir | fl
@@ -441,6 +455,10 @@ $x
 
 <h3>See History</h3>
 <pre><code>&gt; history
+</code></pre>
+
+<p>Re-run a command with Invoke-History, or its aliases, r or ihy.</p>
+<pre><code>&gt; r 68 
 </code></pre>
 
 <h3>If, Then, Else</h3>

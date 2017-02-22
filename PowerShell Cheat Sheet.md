@@ -183,6 +183,10 @@ The escape character is `(in the upper left of the keyboard).
 
 	> history
 
+Re-run a command with Invoke-History, or its aliases, r or ihy.
+
+	> r 68 
+
 ### If, Then, Else
 
 	> If (10 -gt 15) {“Yes”} Else {“No”}
@@ -296,3 +300,7 @@ Use -relative to show how to get there
 It's not a PowerShell command, but it gets the job done...
 
 	> notepad hi.txt
+
+### Measure Run Time
+
+	> Measure-Command {mvn clean compile}
