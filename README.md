@@ -1,9 +1,8 @@
-# PowerShellDemo
+# power-shell-demo
 Some custom PowerShell scripts that I tend to reuse.
 
 ### Notes to Self ###
-Add this directory to the user or
- system path.
+Add this directory to the user or system path.
 
 Set the Powershell Execution Policy to allow local scripts:
 
@@ -11,9 +10,9 @@ Set the Powershell Execution Policy to allow local scripts:
 
 To set up a profile file, run the following script:
 
-<code>if (!(Test-Path -Path $PROFILE)) {</code>
-<code>  New-Item -ItemType File -Path $PROFILE -Force</code>
-<code>}</code>
+<code>if (!(Test-Path -Path $PROFILE)) {
+  New-Item -ItemType File -Path $PROFILE -Force
+}</code>
 
 This will create a ps1 profile file at $PROFILE\Microsoft.PowerShell_profile.ps1 which you can
 edit with customer commands to set up your environment.
