@@ -15,8 +15,8 @@ To set up a profile file, run the following script:
 }</code>
 
 This will create a ps1 profile file at $PROFILE\Microsoft.PowerShell_profile.ps1 which you can
-edit with customer commands to set up your environment.
+edit with custom commands to set up your environment.
 
-To use custom scripts at the command line, set up aliases in this profile file, using a command like
+To use custom scripts at the command line, set up aliases in this profile file, using a command like:
 
 <code>Set-Alias myScript "C:\Path\To\Script\CustomScript.ps1".</code>
