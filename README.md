@@ -7,13 +7,13 @@ Add this directory to the user or
 
 Set the Powershell Execution Policy to allow local scripts:
 
-<code>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned<code>
+<code>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned</code>
 
 To set up a profile file, run the following script:
 
-<code>if (!(Test-Path -Path $PROFILE)) {
-  New-Item -ItemType File -Path $PROFILE -Force
-}</code>
+<code>if (!(Test-Path -Path $PROFILE)) {</code>
+<code>  New-Item -ItemType File -Path $PROFILE -Force</code>
+<code>}</code>
 
 This will create a ps1 profile file at $PROFILE\Microsoft.PowerShell_profile.ps1 which you can
 edit with customer commands to set up your environment.
