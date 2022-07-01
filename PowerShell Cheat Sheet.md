@@ -1,5 +1,9 @@
 # PowerShell Cheat Sheet #
 
+### Start PowerShell in Directory
+
+    Ctrl + Shift + Right Click in a Window Explorer folder to get an option to start PowerShell in that directory.
+
 ### Clear Screen
 
     > cls
