@@ -308,3 +308,9 @@ It's not a PowerShell command, but it gets the job done...
 ### Measure Run Time
 
 	> Measure-Command {mvn clean compile}
+
+### Open and Edit a File in Visual Studio
+
+Add `C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE` or equivalent to the path.
+Call `> devenv /Edit PATH_TO_FILE`
+https://stackoverflow.com/questions/49085977/opening-a-folder-in-visual-studio-from-command-prompt
