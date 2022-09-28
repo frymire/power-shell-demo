@@ -1,6 +1,8 @@
 # Put this in C:\Users\mark.frymire.SERCO-NA\Documents\PowerShell\
 
-cd "D:\code"
+If (($pwd).Path -eq $HOME) {
+	cd "D:\code"
+}
 
 # Show navigable menu of all options when hitting Tab
 Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete
