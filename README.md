@@ -20,3 +20,7 @@ edit with custom commands to set up your environment.
 To use custom scripts at the command line, set up aliases in this profile file, using a command like:
 
 <code>Set-Alias myScript "C:\Path\To\Script\CustomScript.ps1".</code>
+
+To upgrade PowerShell...
+> winget search Microsoft.PowerShell
+> winget install --id Microsoft.Powershell --source winget
