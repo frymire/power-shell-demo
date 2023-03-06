@@ -1,0 +1,1 @@
+Get-FileHash $args[0] | fl
