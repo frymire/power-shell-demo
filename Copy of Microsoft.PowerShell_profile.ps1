@@ -10,3 +10,5 @@ Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete
 # Enable autocompletion for arrow keys.
 Set-PSReadlineKeyHandler -Key UpArrow -Function HistorySearchBackward
 Set-PSReadlineKeyHandler -Key DownArrow -Function HistorySearchForward
+
+Set-Alias grep findstr
